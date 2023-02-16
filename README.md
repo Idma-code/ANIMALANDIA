@@ -1,4 +1,4 @@
-##Animalandia
+#Animalandia
 
 - HTML
 - CSS
@@ -7,7 +7,7 @@
 
 [Animalandia page](https://idma-code.github.io/ANIMALANDIA/index.html)
 
-###Instalación
+#Instalación
 
 **Paso 1**
 
